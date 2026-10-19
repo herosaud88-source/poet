@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "siwar": {
+      "type": "http",
+      "url": "https://mcp.arai.center/mcp"
+    }
+  }
+}

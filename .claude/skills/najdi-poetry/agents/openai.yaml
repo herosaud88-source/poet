@@ -1,0 +1,4 @@
+interface:
+  display_name: "الشعر النجدي"
+  short_description: "صياغة قصائد نجدية طبيعية ومراجعتها حسب أمثلة المستخدم"
+  default_prompt: "Use $najdi-poetry to write six Najdi verses from my situation and approved examples."

@@ -1,0 +1,2 @@
+# Optional classical Arabic prosody; not a verified Nabati meter checker.
+pyarud==1.0.0
