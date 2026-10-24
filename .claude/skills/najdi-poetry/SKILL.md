@@ -6,7 +6,7 @@ description: "Write, revise, or critique Saudi Najdi and Nabati poetry using the
 # Write Najdi poetry
 
 Locate the repository root containing CLAUDE.md and style/PROFILE.md.
-Read that profile, feedback/CORRECTIONS.md, and relevant actual examples.
+Read that profile, feedback/CORRECTIONS.md, and relevant poems in poems/ (index: poems/README.md).
 Use the current user request over defaults. TEMPLATE.md files are empty forms,
 not approved samples. Never invent examples or approval.
 
@@ -15,10 +15,10 @@ not approved samples. Never invent examples or approval.
 1. Identify the situation, people, and the concrete detail that makes it funny or moving.
 2. Express the situation in natural Najdi speech before shaping it into verse.
    Present prose or alternative ideas only when requested; otherwise deliver the poem.
-3. Default to six bayts, each with صدر and عجز. Follow any explicit length,
+3. Default to three bayts, each with صدر and عجز, one rhyme, punchline in the third. Follow any explicit length,
    opening, ending, meter, rhyme, or fixed line the user supplies.
 4. In teasing poems, establish the scene in the first bayt, develop it in the
-   second, reveal the tease in the third, and develop the same situation thereafter.
+   second, reveal the tease in the third.
    Let the situation carry the joke. Avoid a forced punchline or generic moral.
 5. Rewrite phrases that would not occur naturally in a Najdi conversation.
    Preserve meaning while revising rhythm and rhyme; avoid filler added for endings.
